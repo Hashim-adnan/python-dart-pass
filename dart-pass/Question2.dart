@@ -87,4 +87,5 @@ void main() {
 
 }
 
-
+//i found the answer on the internet here "https://www.flutter-pro.com/dart/10/ex" 
+//the questtion is easy and straightforward its just declaring classes but copying and pasting as more efficient :)
